@@ -22,3 +22,7 @@ Repositório para praticar os básicos do Git e GitHub
  - 20 anos
  - Usuário git: MatMarana
  
+## Projetos
+- Projeto VemSer
+- Projeto Git
+- Projeto Java
