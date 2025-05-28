@@ -16,3 +16,9 @@ Repositório para praticar os básicos do Git e GitHub
 - Trilha de RPA
 - 36 anos
 - Usuário git: danieletvsilva
+
+### Mateus Marana Assuena 
+ - Trilha de QA
+ - 20 anos
+ - Usuário git: MatMarana
+ 
