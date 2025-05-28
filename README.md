@@ -1,5 +1,5 @@
 # meu-primeiro-repo
-Repositório para praticar os básicos do Git e GitHub
+Repositório para praticar os básicos do Git e GitHub. (Alterado)
 ## Sobre Mim
 
 ### Marcos Aurelio de Almeida Castro
