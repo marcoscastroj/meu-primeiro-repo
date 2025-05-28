@@ -1,5 +1,6 @@
 # meu-primeiro-repo
 Repositório para praticar os básicos do Git e GitHub. (Alterado)
+Houve pesquisa de comandos de markdown e html no chatgpt.
 ## Sobre Mim
 
 ### Marcos Aurelio de Almeida Castro
